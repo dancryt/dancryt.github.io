@@ -1,0 +1,28 @@
+
+h2{
+    font-size: 32px;
+    border-bottom: 1px;
+    border-bottom-color: grey;
+    margin-bottom: 8px;
+    z-index: 999;
+}
+#header{
+    margin-bottom: 32px;
+    text-align: center;
+}
+#footer{
+    margin-top: 64px;
+    text-align: center;
+}
+p{
+    margin-bottom: 12px;
+}
+h1{
+    font-size: 36px;
+    margin-bottom: 0;
+}
+.header-title{
+    font-size: 18px;
+    border-bottom:none;
+    margin-bottom: 10px;
+}
